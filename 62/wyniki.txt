@@ -1,0 +1,8 @@
+1.
+Maks: 777044, Min: 1002
+2.
+Pierwszy element: 1903, długość: 5
+3.
+Takie same: 160, większa: 357
+4.
+10: 411, 8: 625
